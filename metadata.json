@@ -1,0 +1,8 @@
+{
+  "name": "Merry Christmas, Feiyan",
+  "description": "A cinematic, gesture-controlled 3D interactive Christmas experience with memory gallery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
